@@ -26,6 +26,7 @@ Tommy Hiller Tran
   3. High throughput omics factors in all members of life vs. just PCR amplicons (can include viruses and many other factors)
   
 Vocab:
+
 * Genomics: study of genomes, identify metabolic pathways, look at sequence composition or other properties of genomes.
 * Metagenomics: entire DNA content of a given environment, includes many many genomes and they are all in a mixture. 
 * Single cell genomics:
@@ -34,6 +35,7 @@ Vocab:
 * Metapangenomics: understanding how these genomes relate to one another, to their ecology through a metagenomic prespective in a systematic fashion. 
 
 Roland speaker: 
+
 * Each method has it's strong points and flaws, need to combine them.
 
 * Problem in a field that we do not know what many proteins encode for. 
