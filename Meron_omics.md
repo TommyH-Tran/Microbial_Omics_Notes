@@ -65,15 +65,19 @@ Roland speaker:
 Amplicon Sequencing: you have an environment, and use universal primers
 to land on 16s highly preserved sites sites. It allows you to amplify
 the sites and then sequence them to learn about their differences.
-(there are many questions that cannot be answered from this method) +
-very affordable + sustained protocol
+(there are many questions that cannot be answered from this method)
+
+  - very affordable
+  - sustained protocol
 
 Shotgun Sequencing: extract DNA from an environment, will include reads
 that are more than just the primers. Will also get reads from eukaroytic
 DNA if it is present. Viruses will also be included and plasmids. Takes
-all reads into account. They called metagenomic short reads. + Takes all
-reads and small things of an environment that are ignored by primers in
-16s. + Small things matter, (viruses, plasmids)
+all reads into account. They called metagenomic short reads.
+
+  - Takes all reads and small things of an environment that are ignored
+    by primers in 16s.
+  - Small things matter, (viruses, plasmids)
 
 Read recruitment: takes metagenomic short reads from shotgun sequencing
 and tries to map the short reads against a reference genome from a
@@ -83,18 +87,22 @@ them. (Uses the terms detection and coverage)
 Genome Resolved Metagenomics: uses shotgun sequencing to get metagnomic
 short reads and map against reference genomes.
 
-Vocabulary: \* Plasmids: tiny genomes microbes can exchange \*
-Prevalence: is the gene present? \* Amplicons: small fragments that
-allow you to identify organisms \* Coverage: how much short reads total
-does it match to reference context for that environment. 8x , 4x etc.
-The depth. \* Detection: how much of the full reference context genome
-is detected in the given environment. \* De novo assembly: taking
-metagenomic short reads and overlapping them to create a bigger contigs.
-\* Metagenomic Binning: the process of using contigs assembled from
-metagenomic short reads and creating Metagenome assembled genomes \*
-MAGS: metagenomic assembled genomes from contigs \* Metagenomic short
-reads: use these for mapping against reference genomes, short reads can
-be obtained from shotgun sequencing
+Vocabulary:
+
+  - Plasmids: tiny genomes microbes can exchange
+  - Prevalence: is the gene present?
+  - Amplicons: small fragments that allow you to identify organisms
+  - Coverage: how much short reads total does it match to reference
+    context for that environment. 8x , 4x etc. The depth.
+  - Detection: how much of the full reference context genome is detected
+    in the given environment.
+  - De novo assembly: taking metagenomic short reads and overlapping
+    them to create a bigger contigs.
+  - Metagenomic Binning: the process of using contigs assembled from
+    metagenomic short reads and creating Metagenome assembled genomes
+  - MAGS: metagenomic assembled genomes from contigs
+  - Metagenomic short reads: use these for mapping against reference
+    genomes, short reads can be obtained from shotgun sequencing
 
 Questions from others:
 
