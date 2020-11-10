@@ -1,6 +1,6 @@
 ---
 title: "Notes_Meren_Omics"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 Here are notes I have taken from a 6 week video series that was provided by Meren Lab.
