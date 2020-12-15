@@ -158,8 +158,10 @@ more likely to be evolving under different evolutionary pressures
 **What are some things we would want in a gene used to represent the
 evolutionary history of its source organism?**
 
-1.  Present across all the organisms we want to consider 2.Highly
-    constrained functionally across all organisms being considered
+1.  Present across all the organisms we want to consider
+
+2.  Highly constrained functionally across all organisms being
+    considered
     
       - The more consistently, functionally constrained something is
         across all target organsisms, the less susceptible it is to
