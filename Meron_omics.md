@@ -131,3 +131,64 @@ sequences is preferred *Tertranucleotide matrix is generally used in the
 field today k mer = 4
 
 # 04 Pangenomics
+
+-----
+
+# 06 Phylogenomics
+
+Phylogenetics = the practice of trying to infer evolutionary
+relationships between organisms based on heritable traits or
+characteristics
+
+Phylogenomics = trying to infer evolutionary relationships at something
+closer to a genome-level rather than an individual gene-level phylogeny
+
+Phylogenetic trees = visual representations of hypotheses about
+evolutionary relationships
+
+Single-copy core genes (SCGs) = these are genes that are present in
+exactly 1 copy in all or most of the organisms we are focusing on.
+
+Orthologous genes = orthologs are versions of the same gene=type in
+different organisms that have only diverged along with those organisms.
+
+Paralogous genes = are the result of a gene duplication event, and are
+more likely to be evolving under different evolutionary pressures
+
+**What are some things we would want in a gene used to represent the
+evolutionary history of its source organism?**
+
+1.  Present across all the organisms we want to consider 2.Highly
+    constrained functionally across all organisms being considered
+    
+      - The more consistently, functionally constrained something is
+        across all target organsisms, the less susceptible it is to
+        accruing different evolutionarily selected changes in different
+        organisms
+    
+      - We want to measure the “background” accumulation of random
+        mutations (as much as possible)
+
+**Ribosome**
+
+1.  Essential for protein synthesis in all known Bacteria, Archaea, and
+    Eukarya
+
+2.  Comprised of many proteins in addition to RNA that all need to
+    interact with each other
+    
+      - This helps functionally constrain each of these proteins and the
+        RNA, because a large change in one macromolecule might inhibit
+        how the whole unit operates together
+
+**Simple process of phylogenetics**
+
+1.  Identify target gene-type/genes in genomes of interest
+2.  Align target genes
+3.  Infer evolutionary relationships
+
+<!-- end list -->
+
+  - A single gene or small amount of genes may not have enough
+    resolution to identify relationships between closely related
+    organisms which is why it is better to use a larger amount of genes.
